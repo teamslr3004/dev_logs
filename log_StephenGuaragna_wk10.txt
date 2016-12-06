@@ -1,0 +1,6 @@
+Dev_Log #10
+Stephen Guaragna
+December 4
+
+
+Me and Rohit both worked on the rest of the app together. completing the AI, card movement, player turns, and scoring. some updates to the graphics were made such as the menu and options screen. i completed the video and worked on finished deliverable 4.
