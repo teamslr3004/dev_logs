@@ -1,0 +1,6 @@
+Dev_Log #6
+Stephen Guaragna 
+October 29
+
+
+The game is starting to come together. currently i have created the deck class and card class to work with each other. the single player screen can create a deck of cards, shuffle them, and distribute them to the player. currently the game is at a phase where the game has just been started. much like shuffling the cards and dealing a hand in real life.

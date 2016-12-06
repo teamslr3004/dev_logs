@@ -1,0 +1,8 @@
+Dev_Log #2
+Stephen Guaragna 
+September 25
+
+I worked on deliverable one, put down the rules of the game. Came up with the functional properties, non-functional properties, and user scenarios.
+screenshots of how the game would look were made by Rohit.
+
+

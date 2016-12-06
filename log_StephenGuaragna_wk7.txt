@@ -1,0 +1,6 @@
+Dev_Log #7
+Stephen Guaragna
+November 9
+
+
+Group meeting to discuss deliverable 2. Lio has not shown up for two weeks now. For deliverable 2 i have worked on the demo that will be used in the presentation. completed the demo summary and documentation. Rohit has added the diagram of our architecture to our documentation. rohit has also created the main menu as well as the graphics for the game. 

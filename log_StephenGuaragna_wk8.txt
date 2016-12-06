@@ -1,0 +1,6 @@
+Dev_Log #8
+Stephen Guaragna 
+November 12
+
+
+Discovered that Lio has decided to drop the course. I notified the professor and TA about the situation. Lio was working on putting together the separate applications each one of us has been working on, as well supposed to have worked on the multiplayer aspect of the game. currently me and Rohit have each of our parts on separate applications and will show both during the presentation on tuesday. 

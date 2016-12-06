@@ -1,0 +1,12 @@
+Dev_Log #1
+Stephen Guaragna 
+September 21
+
+
+Got together with group to discuss ideas of what the App will be.
+it was decided to create an app using the android platform because that is what we were familiar with
+the app will be created using android studio
+different ideas were brought up such as a camera and collage application which is where the team name SLR comes in to play along with our initials.
+Eventually, the team settled on a card game application that is commonly played in Cameroon.
+the card game consits of 2-4 players using a standard deck with the ace, king, queen, and jack removed.
+the goal of the game is to play a card and the opposing player has to play a card with the same suit of higher value to take control. person in control at the end of the game is the winner.

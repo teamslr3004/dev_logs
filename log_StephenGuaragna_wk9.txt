@@ -1,0 +1,6 @@
+Dev_Log #9
+Stephen Guaragna 
+November 27
+
+
+I have have completed D3. both architecture and design part. still working on AI and player interaction. Rohit has remade the project so our separate applications are now 1, Lio is no longer with us so some of the design has changed and divided from the original plan, especially the part of multiplayer including micro transactions. 

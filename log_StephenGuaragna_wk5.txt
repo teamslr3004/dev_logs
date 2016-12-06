@@ -1,0 +1,6 @@
+Dev_Log #5
+Stephen Guaragna 
+October 19
+
+
+some coding for the game has finally been made. single player mode currently being worked on. have set up a screen to represent the playing field and the deck has been created and able to shuffle the deck. 

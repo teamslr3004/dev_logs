@@ -1,0 +1,8 @@
+Dev_Log #3
+Stephen Guaragna 
+October 5
+
+Start to become familiar with using Android Studio. working on tutorials on how to use the software. design concepts are made of how we would like the game to run. UML diagram created as well to help with the process of development.
+
+
+
